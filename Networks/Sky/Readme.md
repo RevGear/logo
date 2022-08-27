@@ -8,7 +8,7 @@
 | ![SkyCinemaRomance] | ![SkyCinemaSciFiHorror] | ![SkyCinemaSelect] | ![SkyCinemaSpecial] | ![SkyCinemaSuspense]	
 | ![SkyCinemaThriller] | ![SkyCinemaUno] | ![SkyCinemaUnoPlus24] | ![SkyComedy] | ![SkyCrime] |
 | ![SkyCrimePlus1] | ![SkyDocumentaries] | ![SkyHistory] | ![SkyHistory2] | ![SkyHistoryPlus1] |
-| ![Skyinvestigation] | ![SkyKrimi] | ![SkyMax] | ![SkyMeteo24] | ![Skymusic] |
+| ![Skyinvestigation] | ![SkyKrimi] | ![SkyMax] | ![SkyMeteo24] | ![SkyMusic] |
 | ![SkyNature] | ![SkyNews] | ![SkyOne] | ![SkyPrimafila] | ![SkyRadio] |
 | ![SkyReplay] | ![SkySciFi] | ![SkySerie] | ![SkyShowcase] | ![SkySport] |
 | ![SkySport1] | ![SkySport24] | ![SkySport4K] | ![SkySportAction] | ![SkySportArena] |
