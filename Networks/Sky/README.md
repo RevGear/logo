@@ -1,6 +1,6 @@
 # Sky
 
-| ![SkyCinema] | ![SkyCinemaAction] | ![SkyCinemaAnimation] | ![SkyCinemaBestOf] | ![[SkyCinemaClassics]]  |
+| ![SkyCinema] | ![SkyCinemaAction] | ![SkyCinemaAnimation] | ![SkyCinemaBestOf] | ![SkyCinemaClassics]  |
 |:---:|:---:|:---:|:---:|:---:|
 | ![SkyCinemaCollection] | ![SkyCinemaComedy] | ![SkyCinemaDrama] | ![SkyCinemaDue] | ![SkyCinemaDuePlus24] |
 | ![SkyCinemaFamily] | ![SkyCinemaFun] | ![SkyCinemaGreats] | ![SkyCinemaHits] | ![SkyCinemaPremiere] |
