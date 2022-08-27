@@ -1,27 +1,27 @@
 # Sky
 
-| ![SkyArte] | ![SkyArts] | ![SkyAtlantic] | ![SkyAtlanticPlus1] | ![SkyCinema] |
+| ![SkyCinema] | ![SkyCinemaAction] | ![SkyCinemaAnimation] | ![SkyCinemaBestOf] | ![[SkyCinemaClassics]]  |
 |:---:|:---:|:---:|:---:|:---:|
-| ![SkyCinemaAction] | ![SkyCinemaAnimation] | ![SkyCinemaBestOf] | ![SkyCinemaCollection] | ![SkyCinemaComedy] |
-| ![SkyCinemaDrama] | ![SkyCinemaDue] | ![SkyCinemaDuePlus24] | ![SkyCinemaFamily] | ![SkyCinemaFun] |
-| ![SkyCinemaGreats] | ![SkyCinemaHits] | ![SkyCinemaPremiere] | ![SkyCinemaPremieren] | ![SkyCinemaPremierenPlus24] |
-| ![SkyCinemaRomance] | ![SkyCinemaSciFiHorror] | ![SkyCinemaSelect] | ![SkyCinemaSpecial] | ![SkyCinemaSuspense]	
-| ![SkyCinemaThriller] | ![SkyCinemaUno] | ![SkyCinemaUnoPlus24] | ![SkyComedy] | ![SkyCrime] |
-| ![SkyCrimePlus1] | ![SkyDocumentaries] | ![SkyHistory] | ![SkyHistory2] | ![SkyHistoryPlus1] |
-| ![Skyinvestigation] | ![SkyKrimi] | ![SkyMax] | ![SkyMeteo24] | ![SkyMusic] |
-| ![SkyNature] | ![SkyNews] | ![SkyOne] | ![SkyPrimafila] | ![SkyRadio] |
-| ![SkyReplay] | ![SkySciFi] | ![SkySerie] | ![SkyShowcase] | ![SkySport] |
-| ![SkySport1] | ![SkySport24] | ![SkySport4K] | ![SkySportAction] | ![SkySportArena] |
-| ![SkySportBar] | ![SkySportBundesliga1] | ![SkySportBundesliga10] | ![SkySportBundesliga2] | ![SkySportBundesliga3] |
-| ![SkySportBundesliga4] | ![SkySportBundesliga5] | ![SkySportBundesliga6] | ![SkySportBundesliga7] | ![SkySportBundesliga8] |
-| ![SkySportBundesliga9] | ![SkySportBundesligade] | ![SkySportBundesligaUHD] | ![SkySportCalcio] | ![SkySportCollection] |
-| ![SkySportF1] | ![SkySportFootball] | ![SkySportGolf] | ![SkySportMix] | ![SkySportMotoGP] |
-| ![SkySportNBA] | ![SkySportNews] | ![SkySportPremierLeague] | ![SkySportsAction] | ![SkySportsArena] |
-| ![SkySportsBoxOffice] | ![SkySportsCricket] | ![SkySportSerieA] | ![SkySportsF1] | ![SkySportsFootball] |
-| ![SkySportsGolf] | ![SkySportsMainEvent] | ![SkySportsMix] | ![SkySportsNews] | ![SkySportsNFL] |
-| ![SkySportsPremierLeague] | ![SkySportsRacing] | ![SkySportsUHD] | ![SkySportTennis] | ![SkySportTopEvent] |
-| ![SkySportUHD] | ![SkySportUno] | ![SkyTG24] | ![SkyUno] | ![SkyUnoPlus1] |
-| ![SkyWitness] | ![SkyWitnessPlus1] |	
+| ![SkyCinemaCollection] | ![SkyCinemaComedy] | ![SkyCinemaDrama] | ![SkyCinemaDue] | ![SkyCinemaDuePlus24] |
+| ![SkyCinemaFamily] | ![SkyCinemaFun] | ![SkyCinemaGreats] | ![SkyCinemaHits] | ![SkyCinemaPremiere] |
+| ![SkyCinemaPremieren] | ![SkyCinemaPremierenPlus24] | ![SkyCinemaRomance] | ![SkyCinemaSciFiHorror] | ![SkyCinemaSelect] |
+| ![SkyCinemaSpecial] | ![SkyCinemaSuspense]	| ![SkyCinemaThriller] | ![SkyCinemaUno] | ![SkyCinemaUnoPlus24] |
+| ![SkySport] | ![SkySport1] | ![SkySport24] | ![SkySport4K] | ![SkySportAction] |
+| ![SkySportArena] | ![SkySportBar] | ![SkySportBundesliga] | ![SkySportBundesligaUHD] |
+| ![SkySportBundesliga1] | ![SkySportBundesliga2] | ![SkySportBundesliga3] | ![SkySportBundesliga4] | ![SkySportBundesliga5] |
+| ![SkySportBundesliga6] | ![SkySportBundesliga7] | ![SkySportBundesliga8] | ![SkySportBundesliga9] | ![SkySportBundesliga10] |
+| ![SkySportCalcio] | ![SkySportCollection] | ![SkySportF1] | ![SkySportFootball] | ![SkySportGolf] |
+| ![SkySportMix] | ![SkySportMotoGP] | ![SkySportNBA] | ![SkySportNews] | ![SkySportPremierLeague] |
+| ![SkySportSerieA] | ![SkySportTennis] | ![SkySportTopEvent] | ![SkySportUHD] | ![SkySportUno] | |
+| ![SkySportsAction] | ![SkySportsArena] | ![SkySportsBoxOffice] | ![SkySportsCricket] | ![SkySportsF1] |
+| ![SkySportsFootball] | ![SkySportsGolf] | ![SkySportsMainEvent] | ![SkySportsMix] | ![SkySportsNews] |
+| ![SkySportsNFL] | ![SkySportsPremierLeague] | ![SkySportsRacing] | ![SkySportsUHD] |
+| ![SkyArte] | ![SkyArts] | ![SkyAtlantic] | ![SkyAtlanticPlus1] |  ![SkyComedy] |
+| ![SkyCrime] | ![SkyCrimePlus1] | ![SkyDocumentaries] | ![SkyHistory] | ![SkyHistory2] |
+| ![SkyHistoryPlus1] | ![Skyinvestigation] | ![SkyKrimi] | ![SkyMax] | ![SkyMeteo24] |
+| ![SkyMusic] | ![SkyNature] | ![SkyNews] | ![SkyOne] | ![SkyPrimafila] |
+| ![SkyRadio] | ![SkyReplay] | ![SkySciFi] | ![SkySerie] | ![SkyShowcase] |
+| ![SkyTG24] | ![SkyUno] | ![SkyUnoPlus1] | ![SkyWitness] | ![SkyWitnessPlus1] |	
 
 
 
@@ -33,6 +33,7 @@
 [SkyCinemaAction]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkyCinemaAction.png
 [SkyCinemaAnimation]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkyCinemaAnimation.png
 [SkyCinemaBestOf]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkyCinemaBestOf.png
+[SkyCinemaClassics]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkyCinemaClassics.png
 [SkyCinemaCollection]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkyCinemaCollection.png
 [SkyCinemaComedy]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkyCinemaComedy.png
 [SkyCinemaDrama]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkyCinemaDrama.png
@@ -91,7 +92,7 @@
 [SkySportBundesliga7]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkySportBundesliga7.png
 [SkySportBundesliga8]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkySportBundesliga8.png
 [SkySportBundesliga9]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkySportBundesliga9.png
-[SkySportBundesligade]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkySportBundesligade.png
+[SkySportBundesliga]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkySportBundesliga.png
 [SkySportBundesligaUHD]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkySportBundesligaUHD.png
 [SkySportCalcio]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkySportCalcio.png
 [SkySportCollection]:https://raw.githubusercontent.com/RevGear/logo/master/Networks/Sky/SkySportCollection.png
