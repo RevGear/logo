@@ -1,0 +1,3 @@
+| ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/PA/OyeTV.png)| ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/PA/SerTV.png)| ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/PA/Telemetro.png)| ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/PA/TVMax.png)| ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/PA/TVN.png)| 
+|:---:|:---:|:---:|:---:|:---:| 
+ | 
