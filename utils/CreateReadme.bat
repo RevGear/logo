@@ -31,10 +31,10 @@ for %%F in (*.png) do (
         )
     )
 )
-if (!hasFile!==FALSE) {
+if !hasFile!==FALSE (
     @echo ERROR : No PNG files found
     goto :theEnd
-}
+)
 if not !col!==5 (
     set vText=!vText! ^|
     echo !vText! >> README.md
