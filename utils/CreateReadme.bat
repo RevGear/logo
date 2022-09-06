@@ -18,7 +18,7 @@ for %%F in (*.png) do (
     set filename=%%~fF
     set fileUrl=!filename:%basePath%=%baseURL%!
     set fileUrl=!fileUrl:\=/!
-    set vText=!vText!^| ^^![](!fileUrl!^)
+    set vText=!vText!^| ^^![](!fileUrl!^) 
     set /A col=!col!+1
     if !col!==5 (
         set vText=!vText!^|
@@ -35,7 +35,7 @@ if !hasFile!==FALSE (
     @echo ERROR : No PNG files found
     goto :theEnd
 )
-if not !col!==5 (
+if not !col!==0 (
     set vText=!vText! ^|
     echo !vText! >> README.md
 )
