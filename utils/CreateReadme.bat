@@ -4,7 +4,7 @@ SETLOCAL EnableDelayedExpansion
 @echo %cd%
 
 if exist README.md (
-    @echo ERROR : README.md already exists
+    REM @echo ERROR : README.md already exists
     goto :theEnd
 )
 
@@ -32,7 +32,7 @@ for %%F in (*.png) do (
     )
 )
 if !hasFile!==FALSE (
-    @echo ERROR : No PNG files found
+    REM @echo ERROR : No PNG files found
     goto :theEnd
 )
 if not !col!==0 (
