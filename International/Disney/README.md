@@ -1,0 +1,3 @@
+| ![](https://raw.githubusercontent.com/RevGear/logo/master/International/Disney/DisneyChannel.png) | ![](https://raw.githubusercontent.com/RevGear/logo/master/International/Disney/DisneyChannelFrench.png) | ![](https://raw.githubusercontent.com/RevGear/logo/master/International/Disney/DisneyChannelPlus1.png) | ![](https://raw.githubusercontent.com/RevGear/logo/master/International/Disney/DisneyJunior.png) | ![](https://raw.githubusercontent.com/RevGear/logo/master/International/Disney/DisneyJuniorPlus1.png) | 
+|:---:|:---:|:---:|:---:|:---:| 
+| ![](https://raw.githubusercontent.com/RevGear/logo/master/International/Disney/DisneyXD.png)  | 
