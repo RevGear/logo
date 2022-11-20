@@ -1,2 +1,0 @@
-| ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/AW/ArubaTV.png) | ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/AW/Telearuba.png) | (https://raw.githubusercontent.com/RevGear/logo/master/Other/blank.png) | (https://raw.githubusercontent.com/RevGear/logo/master/Other/blank.png) | (https://raw.githubusercontent.com/RevGear/logo/master/Other/blank.png) |
-|:---:|:---:|:---:|:---:|:---:| 
