@@ -1,3 +1,3 @@
-| ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/LU/ChamberTV.png) | ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/LU/EldoTV.png) | ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/LU/LuckyJack.png) | ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/LU/LuxeTV.png) | ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/LU/RTL.png) | 
+| ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/LU/Chamber-TV.png) | ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/LU/Eldo-TV.png) | ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/LU/Lucky-Jack.png) | ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/LU/Luxe-TV.png) | ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/LU/RTL-Zwee.png) | 
 |:---:|:---:|:---:|:---:|:---:| 
-| ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/LU/RTLZwee.png)  | 
+| ![](https://raw.githubusercontent.com/RevGear/logo/master/Countries/LU/RTL.png)  | 
